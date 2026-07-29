@@ -7,7 +7,7 @@ print("Hello, World!")
 
 # Variables
 a = 10
-b = 10
+b = 15
 
 # Addition
 sum = a + b
