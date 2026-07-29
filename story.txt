@@ -8,7 +8,10 @@ print("Hello, World!")
 # Variables
 a = 10
 
+
 b = 14
+
+b = 15
 
 b = 15
 
