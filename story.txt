@@ -14,3 +14,12 @@ sum = a + b
 
 # Display the result
 print("The sum is:", sum)
+
+#Code Added by JJ
+
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
