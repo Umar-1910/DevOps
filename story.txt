@@ -1,1 +1,16 @@
 hello world
+#Code Added By Umair9211
+
+# Simple Python Program
+
+print("Hello, World!")
+
+# Variables
+a = 10
+b = 5
+
+# Addition
+sum = a + b
+
+# Display the result
+print("The sum is:", sum)
